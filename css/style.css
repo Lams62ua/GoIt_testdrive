@@ -1,0 +1,31 @@
+
+html, 
+body {
+    height: 100%;
+}
+
+.wrapper {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.main-page {
+    background: linear-gradient(270.14deg, #55DDEE 0.14%, #FCFEFF 99.89%);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    margin-top: 34px;
+    margin-bottom: 58px;
+    display: flex;
+}
+
+.logo-text {
+    margin-left: 18px;
+}
+
+
+
+
